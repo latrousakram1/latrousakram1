@@ -74,5 +74,5 @@ Consolider des compétences techniques et opérationnelles en data et IA pour co
 ---
 
 ## Contact  
-- **LinkedIn** : ajouter lien  
-- **Email** : ajouter email
+- **LinkedIn** :(https://www.linkedin.com/in/latrous-akram-5001593b0/) 
+- **Email** :latrousakram@gmail.com
